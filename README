@@ -1,0 +1,9 @@
+How to compile lab2.cpp and get the result?
+	I have written a makefile, so please type "make" to compile. 
+How to run lab2?
+	Please type ./lab2
+The existence of file.in and file.out?
+	Inside the file.in are data used to test the program.
+	And the results will be strored in the file.out.
+	Therefore, please type " cat file.out " to examine the results.	
+
